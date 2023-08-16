@@ -35,6 +35,7 @@ public class Miniproject {
 		driver.manage().window().maximize();
 		
 		
+		System.out.println("Hi");
 	}
 	
 	public static void urlLaunch(String url) {
