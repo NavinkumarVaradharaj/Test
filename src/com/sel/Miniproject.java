@@ -33,6 +33,8 @@ public class Miniproject {
 		ch.addArguments("incognito");
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
+		
+		
 	}
 	
 	public static void urlLaunch(String url) {
